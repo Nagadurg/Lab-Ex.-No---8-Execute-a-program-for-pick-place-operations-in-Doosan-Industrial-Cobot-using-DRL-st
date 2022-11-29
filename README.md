@@ -40,9 +40,9 @@ Controllers: Controllers synchronize and control the movement of different actua
 2) Use 2 Jaw Gripper to pick the object from P1 (Pick Point). 
 
 ## Program 
-Roll no: 212221230107
+Roll no: 212221230014
 
-Name: M.Sowmya
+Name: CH.Naga durga
 
 ![output](./Ex.8.1.kin.PNG)
 
